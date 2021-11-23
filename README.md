@@ -6,6 +6,7 @@ Open powerShell in Desktop and write:
 
 Open powerShell in ProjectFolder and write:
 1. npm init
+
 Answer the questions:
 1) Name project: "Your name project";
 2) version: click "Enter"
